@@ -91,6 +91,7 @@ class QuickTimeMov {
             // creating video
             // --------------------------------------------------
             writer.startWriting()
+            // I need the audio in this MOV FIle Please Update it
             reader.startReading()
             writer.startSessionAtSourceTime(kCMTimeZero)
 
